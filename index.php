@@ -7,6 +7,8 @@
   the_post();?>
   <h2><?php the_title();?></h2>
   <p><?php the_content();?></p>
+  <small><p>Posté le <?php the_time('j F Y à H\hi'); ?> par <?php the_author_posts_link(); ?>.</p></small>
+
 <?php endwhile; endif;?>
 
 <?php get_footer();?>
