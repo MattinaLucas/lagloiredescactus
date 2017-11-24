@@ -1,2 +1,2 @@
-<?php <p_redirect(site_url());
+<?php wp_redirect(site_url());
 exit;

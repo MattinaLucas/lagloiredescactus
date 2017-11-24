@@ -1,28 +1,7 @@
-/*
-Theme Name: La gloire des cactus
-Author: Lucas et Lucie
-Description: Just a little theme to say how much we love cactus.
-Version: 1.8
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: blog
-Text Domain: twentyfifteen
-
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
-*/
 .cactus {
   position: relative;
   height: 100vh;
   width: 200vh;
-}
-
-.wrap{
-  position: relative;
-  max-width:1440px;
-  height: 100%;
-  margin: 0 auto;
-  padding: 0 150px;
 }
 
 h1 {
@@ -74,7 +53,6 @@ footer {
   color: white;
   text-align: center;
   font-size: 17px;
-  font-family: 'Roboto Condensed', sans-serif;
 }
 
 #informations {
@@ -83,5 +61,4 @@ footer {
   color: white;
   text-align: center;
   font-size: 17px;
-  font-family: 'Roboto Condensed', sans-serif;
 }
